@@ -136,7 +136,7 @@ Html, Css, JS, TS, React, Redux, Angular, NextJS, NodeJS, ExpressJS, Java-Spring
 <Description>
 <strong>Tools</strong>
 <p>
-VScode, IntelliJ, Pycharm, Github etc.
+VScode etc.
 </p>
 </Description>
 
